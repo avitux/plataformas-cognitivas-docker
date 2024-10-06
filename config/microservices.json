@@ -10,7 +10,7 @@
     },
     "modelo05": {
       "version": "V01",
-      "url": "http://serving05:8080/predict"
+      "url": "http://serving01:8080/predict"
     }
   }
 }
