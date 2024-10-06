@@ -55,7 +55,7 @@ def call_predict(request = request):
 if __name__ == '__main__':
     args = sys.argv[1:]
     if len(args) < 1:
-        args.append('models/modelo05.joblib')
+        args.append('models/modelo01.joblib')
     if len(args) < 2:
         args.append('8080')
 
